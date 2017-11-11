@@ -1,6 +1,7 @@
 {
     "name": "symfony/flex",
     "type": "composer-plugin",
+    "description": "Symfony flex with custom recipes.",
     "license": "MIT",
     "authors": [
         {
